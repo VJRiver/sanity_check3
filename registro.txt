@@ -51,5 +51,6 @@ The key's randomart image is:
 +----[SHA256]-----+
 ~/Desktop/PROGRAMACION/Java/EclipseProjects/Practica_Git/bin> 
 *************************************************************************************************************************
-Prueba de texto del 18/Marzo/2022
+Prueba de texto del 18/Marzo/2022 - sólo se añadió este texto, para probar cómo subir cambios
+A un origin en GitHub
 
